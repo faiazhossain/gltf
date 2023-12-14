@@ -1,0 +1,11 @@
+Model Information:
+* title:	National Memorial (textured)
+* source:	https://sketchfab.com/3d-models/national-memorial-textured-fc1b0671d4524b189d004b0cc9a79403
+* author:	DIP (https://sketchfab.com/DEXDEX)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "National Memorial (textured)" (https://sketchfab.com/3d-models/national-memorial-textured-fc1b0671d4524b189d004b0cc9a79403) by DIP (https://sketchfab.com/DEXDEX) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
